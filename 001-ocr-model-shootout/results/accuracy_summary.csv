@@ -1,0 +1,5 @@
+﻿model_id,display_name,cer,wer
+gemini-2.5-pro,Gemini 2.5 Pro,34.54,37.21666666666667
+cloud-vision,Cloud Vision API,38.06666666666667,48.81
+gemini-2.5-flash,Gemini 2.5 Flash,40.446666666666665,44.376666666666665
+gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,42.85999999999999,47.48666666666667
